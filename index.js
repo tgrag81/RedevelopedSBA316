@@ -67,7 +67,7 @@ const buttonElement = document.querySelector("button");
 console.log(buttonElement);
 
 buttonElement.addEventListener("click", () => {
-  alert("Button was clicked!");
+  alert("Complete our Survey!");
 });
 
 
